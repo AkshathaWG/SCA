@@ -1,9 +1,8 @@
-# SCA
-Supply Chain Analysis: A Case Study
+# Supply Chain Analysis: A Case Study
 
 • Dataset - Data collected from a Fashion and Beauty startup. The dataset is based on the supply chain of Makeup products Below are all the features in the dataset:
 
-| Product Type  | SKU | Price | Availability | Number of products sold | Revenue generated | 
+|   |  |  |  |  |  | 
 | ------------- | ------------- || ------------- | ------------- || ------------- | ------------- |
 | Customer demographics  | Stock levels | Lead times | Order quantities | Shipping times | Shipping carriers |
 | ------------- | ------------- || ------------- | ------------- || ------------- | ------------- |
@@ -15,8 +14,12 @@ Supply Chain Analysis: A Case Study
 
 <table>
   <tr>
-    <td>Key 1</td>
-    <td>Value 1</td>
+    <td>Product Type</td>
+    <td>SKU</td>
+    <td>Price</td>
+    <td>Availability</td>
+    <td>Number of products sold</td>
+    <td>Revenue generated</td>
   </tr>
   <tr>
     <td>Key 2</td>
