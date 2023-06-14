@@ -1,4 +1,5 @@
 # Supply Chain Analysis: A Case Study
+-----Check the file SCAResults to see the results-----
 
 • Dataset - Data collected from a Fashion and Beauty startup. The dataset is based on the supply chain of Makeup products Below are all the features in the dataset:
 
