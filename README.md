@@ -2,16 +2,6 @@
 
 • Dataset - Data collected from a Fashion and Beauty startup. The dataset is based on the supply chain of Makeup products Below are all the features in the dataset:
 
-|   |  |  |  |  |  | 
-| ------------- | ------------- || ------------- | ------------- || ------------- | ------------- |
-| Customer demographics  | Stock levels | Lead times | Order quantities | Shipping times | Shipping carriers |
-| ------------- | ------------- || ------------- | ------------- || ------------- | ------------- |
-| Shipping costs  | Supplier name | Location | Lead time | Production volumes | Manufacturing lead time |
-| ------------- | ------------- || ------------- | ------------- || ------------- | ------------- |
-| Manufacturing costs | Inspection results| Defect rates | Transportation modes | Routes | Costs |
-
-• Supply Chain Analysis is performed to find data-driven approaches to optimize the supply chain performance and improve customer satisfaction while reducing costs and maximizing profits for all stakeholders involved.
-
 <table>
   <tr>
     <td>Product Type</td>
@@ -22,11 +12,30 @@
     <td>Revenue generated</td>
   </tr>
   <tr>
-    <td>Key 2</td>
-    <td>Value 2</td>
+    <td>Customer demographics</td>
+    <td>Stock levels</td>
+    <td>Lead times</td>
+    <td>Order quantities</td>
+    <td>Shipping times</td>
+    <td>Shipping carriers</td>
   </tr>
   <tr>
-    <td>Key 3</td>
-    <td>Value 3</td>
+    <td>Shipping costs </td>
+    <td>Supplier name</td>
+    <td>Location</td>
+    <td>Lead time</td>
+    <td>Production volumes</td>
+    <td>Manufacturing lead time</td>
+  </tr>
+  <tr>
+    <td>Manufacturing costs</td>
+    <td>Inspection results</td>
+    <td>Defect rates</td>
+    <td>Transportation modes</td>
+    <td>Routes</td>
+    <td>Costs</td>
   </tr>
 </table>
+
+• Supply Chain Analysis is performed to find data-driven approaches to optimize the supply chain performance and improve customer satisfaction while reducing costs and maximizing profits for all stakeholders involved.
+
