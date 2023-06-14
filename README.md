@@ -12,3 +12,18 @@ Supply Chain Analysis: A Case Study
 | Manufacturing costs | Inspection results| Defect rates | Transportation modes | Routes | Costs |
 
 • Supply Chain Analysis is performed to find data-driven approaches to optimize the supply chain performance and improve customer satisfaction while reducing costs and maximizing profits for all stakeholders involved.
+
+<table>
+  <tr>
+    <td>Key 1</td>
+    <td>Value 1</td>
+  </tr>
+  <tr>
+    <td>Key 2</td>
+    <td>Value 2</td>
+  </tr>
+  <tr>
+    <td>Key 3</td>
+    <td>Value 3</td>
+  </tr>
+</table>
